@@ -1,3 +1,2 @@
 # first-repo
-siddharth sai
-maryville
+THIS IS MY FIRST REPOSTORY
