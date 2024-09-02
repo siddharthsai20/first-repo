@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-m mighty
-o outside
-u Under
-=======
 m mammal
 o optical
 u unique
->>>>>>> alternative
 s small
 e endive
